@@ -1,13 +1,4 @@
-# compilers-2019
-main repository for lab works
-
-Link to Github repo with project:  
-**[https://github.com/maqquettex/bauble-language](https://github.com/maqquettex/bauble-language)**
-
-# README contents:
-
-
-![Yeah, this is bauble](https://github.com/maqquettex/bauble-language/blob/master/icon.png?s=200)
+![Yeah, this is bauble](/icon.png?s=200)
   
 Dynamically typed interpreted imperative language with first-class functions.
 **Created for educational purposes.**
